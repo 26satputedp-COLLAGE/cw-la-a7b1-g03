@@ -51,6 +51,10 @@ Digital travel storytelling website showcasing Italy, its destinations, culture,
 
 -https://www.figma.com/proto/27TVZoPi2W2EwkZyB331qR/Untitled?node-id=4-23&p=f&t=axRBnIc6cPv34J74-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A2&show-proto-sidebar=1
 
+###Live website link — published website URL
+
+https://26satputedp-collage.github.io/cw-la-a7b1-g03/
+
 ## Website Design Details
 
 ### Color Palette
