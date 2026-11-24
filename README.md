@@ -21,12 +21,16 @@ Lab Assessment — Group Project Travel Diary: a Figma Motion story and a websit
 **3. Shashank Anil Pawar**  
 - Roll Number: 22  
 - Batch: B1  
-- Contribution: Image collection.
+- Contribution: Image, Audio collection.
 
 **4. Dron Satpute**  
 - Roll Number: 12  
 - Batch: B1  
-- Contribution: Website building and development (HTML, CSS, and website implementation).
+- Contribution: Website design and development (HTML, CSS, implementation),
+- video editing,
+- GitHub repository setup,
+- website deployment,
+- project management.
 
 ### Country
 
