@@ -95,6 +95,9 @@ https://26satputedp-collage.github.io/cw-la-a7b1-g03/
 -https://media.cntraveller.com/photos/611bef92aac234341a89477f/16:9/w_768,c_limit/gettyimages-1278257702.jpg
 -https://scontent.fnag1-6.fna.fbcdn.net/v/t39.30808-6/795071006_1079969674729608_8012410548035044258_n.jpg?stp=dst-webp_fr_q70&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1--7&_nc_sid=6db65e&_nc_ohc=ocQYaf3CgAsQ7kNvwH7az9k&_nc_oc=AdrrSaVF4jZLgkyS9zhAz6uZ4W9BSNjU2dZZ_Vf4Tv1WF1zyTPC2eYTyL8luC1QdgsuBhvVoRQTNcEZGQmHqJ9Bp&_nc_zt=23&_nc_ht=scontent.fnag1-6.fna&_nc_gid=375Xis9ST3gvoITmNVCylg&_nc_ss=7b389&oh=00_AQQTLo5OT6LrrfB9hgqO8Z1XFEeBn1xf3m7DKUapjpXJ4A&oe=6B0B1D8E
 
+###Music credits — source/creator, or mention No music used
+Ludovico Einaudi composer
+
 ### AI Declaration
 
 We declare that this project was developed collaboratively by the group members. The group members contributed to the design, editing, media collection, development, and final review of the project and take responsibility for the submitted work.
