@@ -11,17 +11,17 @@ Lab Assessment — Group Project Travel Diary: a Figma Motion story and a websit
 **1. Daksh Sharma**  
 - Roll Number: 02  
 - Batch: B1  
-- Contribution: Slide photo editing.
+- Contribution: Slide photo editing, website making.
 
 **2. Soham Gunjal**  
 - Roll Number: 16  
 - Batch: B1  
-- Contribution: Video clipping and information gathering.
+- Contribution: Video clipping and figma motion, figma management.
 
 **3. Shashank Anil Pawar**  
 - Roll Number: 22  
 - Batch: B1  
-- Contribution: Image, Audio collection.
+- Contribution: Image collection, Audio collection, text editing.
 
 **4. Dron Satpute**  
 - Roll Number: 12  
@@ -29,8 +29,7 @@ Lab Assessment — Group Project Travel Diary: a Figma Motion story and a websit
 - Contribution: Website design and development (HTML, CSS, implementation),
 - video editing,
 - GitHub repository setup,
-- website deployment,
-- project management.
+- website deployment.
 
 ### Country
 
