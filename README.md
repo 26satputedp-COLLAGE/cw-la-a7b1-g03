@@ -2,7 +2,7 @@
 Lab Assessment — Group Project Travel Diary: a Figma Motion story and a website in the same design
 # GROUP DETAILS & PROJECT CONTRIBUTIONS
 
-**Group Number:** 3  
+**Group Number:** 2  
 **Batch:** A7–B1  
 **Country Selected:** Italy
 
